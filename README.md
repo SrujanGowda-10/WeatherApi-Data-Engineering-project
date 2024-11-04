@@ -7,15 +7,17 @@ This project is an automated pipeline designed to extract, transform, and load w
 ![Data Architecture](https://github.com/SrujanGowda-10/WeatherApi-Data-Engineering-project/blob/main/Weather%20ETL%20Architecture.png)
 
 ## Technology Used
-1. Programming Language: Python
-2. Scripting Language: SQL
-3. Amazon Web Services
-   - S3 Bucket
-   - Lambda Function
-   - Secrets Manager
-   - EventBridge (CloudWatch Events)
-4. Snowflake Data Warehouse
-   - SnowPipe
+
+1. **Programming Language**: Python
+2. **Scripting Language**: SQL
+3. **Amazon Web Services**
+   - S3 Bucket
+   - Lambda Function
+   - Secrets Manager
+   - EventBridge (CloudWatch Events)
+4. **Snowflake Data Warehouse**
+   - SnowPipe
+
   
 
 ## Dataset used
